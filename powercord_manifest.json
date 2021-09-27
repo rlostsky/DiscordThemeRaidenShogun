@@ -1,9 +1,8 @@
 {
-    "name": "Inumaki-Senpai",
-    "description": "Best jujutsu character theme.",
+    "name": "Raiden-Shogun",
+    "description": "Best Baal character theme.",
     "version": "1",
-    "author": "Trator de Jacare #3219",
-    "theme": "Inumaki.theme.css",
+    "theme": "RaidenShogun.theme.css",
     "consent": ["ext_listing"],
     "license": "MIT"
 }

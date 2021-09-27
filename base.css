@@ -39,7 +39,7 @@
 .contentRegionScroller-26nc1e,
 .theme-dark .sidebarRegion-VFTUkN,
 .sidebarRegionScroller-3MXcoP {
-  background-color: rgba(0, 0, 0, 0.607);
+  background-color: rgba(0, 0, 0, 0);
 }
 
 .theme-dark #bd-settings-sidebar .ui-tab-bar-separator,
@@ -201,7 +201,7 @@
 }
 
 .theme-dark .nowPlaying-284llR {
-  background-color: rgba(0, 0, 0 , 0.756);
+  background-color: rgba(0, 0, 0 , 0.4);
 }
 
 .theme-dark .gameName-1RiWHm,
